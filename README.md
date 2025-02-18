@@ -88,7 +88,7 @@ Currently, **I'm open to work and employment opportunities**.
 <a href="mailto:saju.cse.hstu@gmail.com?subject=Hello Dear Sazzad Saju! I am sending this message from your Github Profile. I need to talk to you!" target="_blank"><img src="https://img.shields.io/badge/-Mail Me-333333?style=flat-square&logo=Gmail&logoColor=red&link=mailto:saju.cse.hstu@gmail.com" height="28"/></a>
 <!-- <a href="https://codecanyon.net/user/sazzad-saju" target="_blank"><img src="https://img.shields.io/badge/-Envato-0077B5?style=flat-square&logo=envato&logoColor=white" height="28"/></a> -->
 <!-- <a href="https://youtube.com/c/programmers-lighthouse" target="_blank"><img src="https://img.shields.io/badge/-@youtube-1877F2?style=flat-square&logo=youtube&logoColor=white" height="28"/></a> -->
-<a href="https://www.linkedin.com/in/sazzad-saju/" target="_blank"><img src="https://img.shields.io/badge/-Sazzad Saju-0077B5?style=flat-square&logo=Linkedin&logoColor=white" height="28"/></a>
+<a href="https://www.linkedin.com/in/sazzad-saju/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Sazzad Saju-0A66C2?logo=linkedin-white&logoColor=fff" height="28"/></a>
 <a href="https://sham3rblog.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/-Sazzad Saju-0077B5?style=flat-square&logo=blogger&logoColor=white" height="28"/></a>
 <a href="https://www.facebook.com/Sazzad.Saju.cse.hstu/" target="_blank"><img src="https://img.shields.io/badge/-Sazzad Saju-1877F2?style=flat-square&logo=facebook&logoColor=white" height="28"/></a>
 </p>
