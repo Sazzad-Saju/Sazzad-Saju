@@ -64,7 +64,7 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](#)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
 
-<a target="_blank" href="https://www.linkedin.com/in/sazzad-saju/"><img width="400" align="right" src="/image/"></a>
+<a target="_blank" href="https://www.linkedin.com/in/sazzad-saju/"><img width="400" align="right" src="https://github.com/Sazzad-Saju/Sazzad-Saju/blob/main/WhatsApp%20Image%202025-02-18%20at%208.34.40%20PM.jpeg"></a>
 
 ### About Me
 
@@ -78,4 +78,18 @@ Currently, **I'm open to work and employment opportunities**.
     <img src="https://img.shields.io/github/stars/Sazzad-Saju?label=Starts&style=social&color=yellow&style=flat&logo=github" alt="Sazzad-Saju" height="28"" alt="" />
 </p>
 
-<!-- rest --!>
+### ⚙️ &nbsp;GitHub Analytics
+![saju's Stats](https://github-readme-stats.vercel.app/api?username=Sazzad-Saju&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+
+![saju's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sazzad-Saju&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+
+### Where to find me
+<p align="center">
+<a href="mailto:saju.cse.hstu@gmail.com?subject=Hello Dear Sazzad Saju! I am sending this message from your Github Profile. I need to talk to you!" target="_blank"><img src="https://img.shields.io/badge/-Mail Me-333333?style=flat-square&logo=Gmail&logoColor=red&link=mailto:saju.cse.hstu@gmail.com" height="28"/></a>
+<!-- <a href="https://codecanyon.net/user/sazzad-saju" target="_blank"><img src="https://img.shields.io/badge/-Envato-0077B5?style=flat-square&logo=envato&logoColor=white" height="28"/></a> -->
+<!-- <a href="https://youtube.com/c/programmers-lighthouse" target="_blank"><img src="https://img.shields.io/badge/-@youtube-1877F2?style=flat-square&logo=youtube&logoColor=white" height="28"/></a> -->
+<a href="https://www.linkedin.com/in/sazzad-saju/" target="_blank"><img src="https://img.shields.io/badge/-Sazzad Saju-0077B5?style=flat-square&logo=Linkedin&logoColor=white" height="28"/></a>
+<a href="https://sham3rblog.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/-Sazzad Saju-0077B5?style=flat-square&logo=blogger&logoColor=white" height="28"/></a>
+<a href="https://www.facebook.com/Sazzad.Saju.cse.hstu/" target="_blank"><img src="https://img.shields.io/badge/-Sazzad Saju-1877F2?style=flat-square&logo=facebook&logoColor=white" height="28"/></a>
+</p>
+
