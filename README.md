@@ -80,7 +80,7 @@ Currently, **I'm open to work and employment opportunities**.
 
 ### ⚙️ &nbsp;GitHub Analytics
 ![saju's Stats](https://github-readme-stats.vercel.app/api?username=Sazzad-Saju&theme=darcula&show_icons=true&hide_border=true&count_private=true)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sazzad-Saju&theme=darcula)](https://git.io/streak-stats)
 ![saju's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sazzad-Saju&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 ### Where to find me
