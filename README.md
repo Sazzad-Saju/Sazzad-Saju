@@ -83,7 +83,7 @@ Currently, **I'm open to work and employment opportunities**.
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sazzad-Saju&theme=darcula)](https://git.io/streak-stats)
 ![saju's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sazzad-Saju&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
-## Languages I Used:
+## Languages Used in My Repositories:
 
 > return from my python script
 
