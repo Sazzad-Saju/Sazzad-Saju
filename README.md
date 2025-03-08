@@ -83,6 +83,14 @@ Currently, **I'm open to work and employment opportunities**.
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sazzad-Saju&theme=darcula)](https://git.io/streak-stats)
 ![saju's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sazzad-Saju&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
+## Languages I Used:
+
+> return from my python script
+
+<!--START_LANGUAGES-->
+(Updating...)
+<!--END_LANGUAGES-->
+
 ### Where to find me
 <p align="center">
 <a href="mailto:saju.cse.hstu@gmail.com?subject=Hello Dear Sazzad Saju! I am sending this message from your Github Profile. I need to talk to you!" target="_blank"><img src="https://img.shields.io/badge/-Mail Me-333333?style=flat-square&logo=Gmail&logoColor=red&link=mailto:saju.cse.hstu@gmail.com" height="28"/></a>
